@@ -74,5 +74,6 @@
 	<classpathentry kind="lib" path="E:/workspacetemp/spring-5.3.8-dist/spring-framework-5.3.8/libs/spring-websocket-5.3.8.jar"/>
 	<classpathentry kind="lib" path="E:/workspacetemp/spring-5.3.8-dist/spring-framework-5.3.8/libs/spring-websocket-5.3.8-javadoc.jar"/>
 	<classpathentry kind="lib" path="E:/workspacetemp/spring-5.3.8-dist/spring-framework-5.3.8/libs/spring-websocket-5.3.8-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
